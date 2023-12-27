@@ -1,6 +1,7 @@
-<header>
+<div>
   <img src="" alt="Logo" class="logo">
-</header>
+
+</div>
 
 
 # *Hey , I'm Priyanka Rana🙋‍♀️*  
