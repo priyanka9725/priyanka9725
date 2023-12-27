@@ -24,7 +24,7 @@ I've been learning code since 6 years. I started with HTML and now gradually my 
 
 
 
-<table><tr><td valign="top" width="50%">
+
 
 🔭 I’m currently working on E-commerce dummy Web Application  
   
