@@ -1,4 +1,4 @@
-![image](https://drive.google.com/file/d/1RvBM64xSzvKWc6qBYI7ReSxJuImUUCZC/view?usp=sharing)
+![image](https://github.com/priyanka9725/priyanka9725/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Priyanka Rana</h1>
 <h3 align="center"> Glad to see you here!  I'm a passionate frontend developer from India
 I've been learning code since 6 years. I started with HTML and now gradually my interests grew up more towards Frontend Web development using various tools and tech.</h3>
