@@ -41,7 +41,7 @@ I've been learning code since 6 years. I started with HTML and now gradually my 
 ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-⚡ Fun fact: I keep night shift swithed on at all times 😅  
+⚡ Fun fact: I keep night shift switched on at all times 😅  
 
 
 </td><td valign="top" width="50%">
