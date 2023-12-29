@@ -60,7 +60,7 @@ I've been learning code since 6 years. I started with HTML and now gradually my 
 
 <br/>    
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka9725&show_icons=true&locale=en&layout=compact" alt="priyanka9725" /></p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka9725&show_icons=true&locale=en" alt="priyanka9725" /></p>
